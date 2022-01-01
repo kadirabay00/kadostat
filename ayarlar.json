@@ -1,0 +1,17 @@
+{
+"Sahip": ["905082807989202964"],
+"Prefix": ".",
+  
+"BotSesKanalı": "BOT SES KANALI ID",
+"BotDurum": "Kado ❤️ Sunucu ismi",
+  
+"PublicKategori": "PUBLİC KATEGORİSİ ID",
+"KayıtKategori": "KAYIT KATEGORİSİ ID",  
+"TerapiKategori": "*VARSA:* TERAPİ KATEGORİSİ ID",  
+"SorunÇözmeKategori": "SORUN ÇÖZME KATEGORİ ID",   
+"VKKategori": "*VARSA:* VK KATEGORİSİ ID",   
+"DCKategori": "DC KATEGORİSİ ID",  
+"GameKategori": "OYUN KATEGORİSİ ID", 
+"PrivateKategori": "PRİVATE KATEGORİSİ ID",    
+"StreamerKategori": "STREAMER KATEGORİSİ ID"
+}
